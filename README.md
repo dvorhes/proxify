@@ -7,4 +7,6 @@ Argument 2: Delete Proxies? True or False (defaults to False).
 Sample command:
 % proxify <footage_folder_path>
 
+Copy "proxify" file into usr/local/bin, or wherever executibles are on your computer. 
+
 
