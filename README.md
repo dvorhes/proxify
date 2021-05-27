@@ -7,7 +7,7 @@ Argument 2: Delete Proxies? True or False (defaults to False).
 
 Setup: 
 Clone repo
-Copy "proxify" shell command file (zsh) into usr/local/bin, or wherever executibles are on your computer. 
+Copy "proxify" shell command file (zsh) into usr/local/bin, or any similar folder in $PATH
 Update command file with path for virtual env (line 2) and local project directory (line 8). 
 
 install ffmpeg. I recommend doing so with homebrew 
