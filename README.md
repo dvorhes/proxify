@@ -10,9 +10,8 @@ Clone repo
 Copy "proxify" shell command file (zsh) into usr/local/bin, or wherever executibles are on your computer. 
 Update command file with path for virtual env (line 2) and local project directory (line 8). 
 
-install ffmpeg 
-recommend doing so with homebrew 
-
+install ffmpeg. I recommend doing so with homebrew 
+https://formulae.brew.sh/formula/ffmpeg
 
 
 
