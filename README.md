@@ -7,6 +7,15 @@ Argument 2: Delete Proxies? True or False (defaults to False).
 Sample command:
 % proxify <footage_folder_path>
 
+Setup: 
 Copy "proxify" file into usr/local/bin, or wherever executibles are on your computer. 
+Update lines 2 and 8 with path for virtual env and local project directory. 
+
+install ffmpeg 
+recommend doing so with homebrew 
+
+
+
+
 
 
