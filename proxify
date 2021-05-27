@@ -1,0 +1,11 @@
+#!/bin/zsh
+source ~/.virtualenvs/proxify/bin/activate
+export "PATH=/usr/local/bin:${PATH}"
+
+FOOTAGE_DIR=${1?Error: No footage directory given}
+DELETE_PROXIES=${2:-False}
+
+python3 /Users/davidsonvorhes/python_projects/proxify/proxify.py $FOOTAGE_DIR $DELETE_PROXIES
+
+deactivate
+
